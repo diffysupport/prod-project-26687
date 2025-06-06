@@ -1,9 +1,9 @@
 basic:
     name: 'Misc testing'
     environments:
-        production: 'https://dev-newhomeombuds.pantheonsite.io'
-        staging: 'https://www.newhomeombuds.ca/'
-        development: ''
+        production: 'https://www.newhomeombuds.ca/'
+        staging: ''
+        development: 'https://dev-newhomeombuds.pantheonsite.io'
     basicAuth:
         production: { user: '', password: '' }
         staging: { user: '', password: '' }
