@@ -19,8 +19,8 @@ basic:
         - /case-stories
         - /reports
         - /reviews-and-feedback
-        - /case-stories/decision-letter
-        - /case-stories/communication-concerns
+        - /case-stories/did-you-watch-video
+        - /case-stories/best-practice
     monitoring:
         days: {  }
         type: ''
