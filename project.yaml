@@ -10,13 +10,13 @@ basic:
     pages:
         - /
         - /about
-        - /how-we-work
-        - /make-a-complaint
-        - /case-stories
-        - /reports
-        - /reviews-and-feedback
-        - /case-stories/did-you-watch-video
-        - /case-stories/best-practice
+        - /contact
+        - /search
+        - /homeowners
+        - /builders
+        - /welcome-industry-professionals
+        - /know-your-home-warranty
+        - /homeowners/roles-responsibilities
     monitoring:
         days: {  }
         type: ''
