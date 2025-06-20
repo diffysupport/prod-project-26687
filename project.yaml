@@ -1,13 +1,9 @@
 basic:
     name: 'Misc testing'
     environments:
-        production: 'https://www.newhomeombuds.ca/'
+        production: 'https://tarion.com'
         staging: ''
-        development: 'https://dev-newhomeombuds.pantheonsite.io'
-    basicAuth:
-        production: { user: '', password: '' }
-        staging: { user: '', password: '' }
-        development: { user: '', password: '' }
+        development: 'https://dev-tarion-com.pantheonsite.io'
     breakpoints:
         - 1024
         - 1440
@@ -33,13 +29,11 @@ advanced:
     remove: ''
     delay: 15
     scroll: true
-    headers:
-        - { header: '', value: '' }
+    headers: {  }
     cookies: ''
     custom_js: ''
     custom_css: ''
-    mock_content:
-        - { selector: '', type: title }
+    mock_content: {  }
     sensitivity: 15
     night_mode: false
     retina_images: false
