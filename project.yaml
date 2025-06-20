@@ -17,6 +17,7 @@ basic:
         - /welcome-industry-professionals
         - /know-your-home-warranty
         - /homeowners/roles-responsibilities
+        - /homeowners/homeowner-resources-hub
     monitoring:
         days: {  }
         type: ''
